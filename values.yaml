@@ -60,8 +60,6 @@ traefik:
     access:
       enabled: true
   ports:
-    traefik:
-      expose: true
     web:
       expose: false
     websecure:
